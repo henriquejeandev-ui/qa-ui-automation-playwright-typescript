@@ -1,0 +1,23 @@
+{
+  "name": "project-3-qa-ui-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriquejeandev-ui/qa-ui-automation-playwright-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/henriquejeandev-ui/qa-ui-automation-playwright-typescript/issues"
+  },
+  "homepage": "https://github.com/henriquejeandev-ui/qa-ui-automation-playwright-typescript#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.1"
+  }
+}
